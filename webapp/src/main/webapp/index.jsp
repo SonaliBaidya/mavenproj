@@ -1,2 +1,2 @@
-welcome to CICD Deployment via varaibles and scmpolling
+Task sucessfully done and stored in jfrog
 
